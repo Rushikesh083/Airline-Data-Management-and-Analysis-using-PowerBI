@@ -74,7 +74,7 @@ The airline industry operates with numerous complexities in handling flight sche
 
 ## 🎥 Video Walkthrough
  
-[(YOUR_VIDEO_LINK](https://drive.google.com/file/d/180FBx5B5Hxp0MOFT4g0aPum9hCKOhkYX/view?usp=drive_link)
+[DRIVE_LINK](https://drive.google.com/file/d/180FBx5B5Hxp0MOFT4g0aPum9hCKOhkYX/view?usp=drive_link)
 
 ---
 
