@@ -57,12 +57,6 @@ The airline industry operates with numerous complexities in handling flight sche
 
 ---
 
-## 📸 Key Dashboard Screenshots
-
-> *(Add screenshots here or link to your Power BI report if published online)*
-
----
-
 ## 🚀 Tools Used
 
 - Microsoft Power BI
